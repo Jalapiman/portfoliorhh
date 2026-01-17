@@ -1,0 +1,14 @@
+  .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:auto;
+  height: auto;
+  
+}
+.sort{
+  display:flex;
+  justify-content: space-evenly;
+  width:200px;
+  height:700px;
+}
